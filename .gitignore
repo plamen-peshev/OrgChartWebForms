@@ -3,3 +3,6 @@
 ################################################################################
 
 /OrgChartWebForms/.vs/OrgChartWebForms
+/OrgChartWebForms/packages
+/OrgChartWebForms/OrgChartWebForms/bin
+/OrgChartWebForms/OrgChartWebForms/obj/Debug
